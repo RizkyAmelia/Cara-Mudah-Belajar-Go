@@ -244,7 +244,7 @@ Didalam pengembangan perangkat lunak, penamaan suatu *variable* merupakan hal ya
 2. Huruf pertama dari kata-kata selanjutnya adalah huruf besar dan seterusnya huruf kecil. Contoh :
     
     catsName := “Brown”
-    fmt.Println (“My Cat’s name is”, catasName)
+    fmt.Println (“My Cat’s name is”, catsName)
 
 Penulisan huruf kapital pada kata kedua untuk memanipulasi pemberian spasi.
 
